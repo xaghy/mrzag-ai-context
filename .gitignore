@@ -1,0 +1,3 @@
+# Local only — do not commit
+.claude.local.md
+*.local.*
